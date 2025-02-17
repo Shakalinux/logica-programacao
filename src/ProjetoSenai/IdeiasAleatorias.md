@@ -1,0 +1,2 @@
+Olá Road, Faz um sistema, primeiramente básico com Leitura de QRCode ou Barras mesmo - um leitor custa uns R$ 50,00 e existe uma infinidade de material didático, como API’s para se trabalhar. Aplicar um adesivo reforçado com o código em cada ferramenta, cadastrar todas. Inicialmente, capturar e armazenar em banco de dados se a ferramenta está em uso/campo, quem a pegou e se devolveu. Futuramente poderá ampliar, diversificar com mais dados e detalhamentos
+

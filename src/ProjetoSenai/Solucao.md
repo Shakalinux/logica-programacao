@@ -1,0 +1,3 @@
+Sistema de Monitoramento Para o monitoramento da guarda e localização dos equipamentos e ferramentas, você pode considerar o uso de tecnologias como Inteligência Artificial, Machine Learning e visão computacional4. Além disso, sistemas de monitoramento remoto que utilizam sensores instalados nos equipamentos de construção podem ser úteis5.
+
+Drones Os drones podem ser usados para monitorar a área de construção em tempo real. Eles podem cobrir grandes áreas rapidamente e fornecer imagens em tempo real. Isso pode ser especialmente útil se você precisar deixar as ferramentas e equipamentos no canteiro de obras.
